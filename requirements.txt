@@ -1,0 +1,5 @@
+kagglehub[pandas-datasets]
+pandas
+ollama>=0.5
+pydantic>=2
+pytest

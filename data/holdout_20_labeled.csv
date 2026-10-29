@@ -1,0 +1,21 @@
+review_id,review_score,title,message,gold_category,gold_severity,gold_needs_response
+7d8d252cc0ae002b13db033ec1cd9dcb,1,N foi entregue ainda ,Demora de entrega,not_received,high,true
+7a00c1705d83b9e71261b53303c48f2e,1,,"Depois que fiz a compra, passou 30 dias para a loja me informar que não tem mais a mercadoria",seller_or_support,high,true
+d0e64a92e085b179f0d779aae3e42336,1,,"ainda não entregaram meu produto, apenas o outros que avia comprado junto, mas o cabo HDMI NÃO foi entregue",wrong_or_missing_item,high,true
+c05b74e77cde703943972816dbb27514,1,,"Não estou satisfeita, pois ainda não recebi o produto.",not_received,high,true
+e9f2aec0cd22b95a889e0e62abd599b5,2,,Vieram 2 rastreadores e nenhum dos dois funcionou. O fornecedor falou que o lote inteiro veio com problema. Devolvi e estou esperando o reembolso.,damaged_or_defective,high,true
+f69bf052b3b43abde9856c27c1b8bf05,2,Gostei,"Recebi o produto certinho, mas quero o reembolso do frete pois eu paguei e tive que ir buscar no correio. Gastei gasolina e ainda paguei o frete, sacanagem",billing_or_refund,medium,true
+1458dac0e909a9ecddb2a2e07f65c9d1,2,,"Fiz a compra de dois vasos, mas só recebi um vaso!",wrong_or_missing_item,high,true
+e1ce19acfe21261e8653d51727e4a272,2,,"Ele veio totalmente errado, preciso que vocês respondam meu email sobre devolução",wrong_or_missing_item,high,true
+3a8ad9a305e3cdd367e1b1c837562065,3,,"Apesar do controle ter todas as funcionalidades do original, a qualidade do material é bem pior. A foto é diferente do produto.",product_quality,medium,true
+c676e266b6c4ce909594f2f144f2a236,3,,recomendo,positive_feedback,low,false
+ea3d2a345d77d62026a947c61eeae44a,3,,"O objeto em questão foi o q eu esperava mais a embalagem poderia ser um pouco melhor, deveria ser de metal a final para se presentear uma pessoa a embalagem é muito simples",product_quality,low,false
+54e65ea9b1e84a47c6e3b4ef26b1f331,3,3,tem problema com un cartucho o preto nao funciona,damaged_or_defective,high,true
+f428d35a26af01ee7a4cfacc63e7c9a6,4,Tapete,Muito bom e bonito,positive_feedback,low,false
+6022fd75093310c15f5450f46adf4ddc,4,Kit bolsa maternidade,As bolsas são lindas. Gostei bastante.,positive_feedback,low,false
+d0488f1b7621ce2bf717afac266f73ac,4,,"estou satisfeita pela compra, continuem assim com esse atendimento vcs só tem a ganhar",positive_feedback,low,false
+19a94c16c98b13029ac739a4780d296b,4,Tranquilo,"Produto de acordo com o anunciado , entrega rápida , gostei.",positive_feedback,low,false
+fcfdb4a771bd5307bcb076de4523e94f,5,,Produto chegou conforme eu havia solicitado em um prazo menor do que havia informado. Estou usando a lente sem nenhum problema. Muito satisfeita!,positive_feedback,low,false
+d8adbce1865bc612a831237244fb0b6b,5,,Muito Bom!.Continuem assim,positive_feedback,low,false
+01026407ec76472ff0d32f0ba7e1c50a,5,Recomendo,"Recomendo o produto, entrega no prazo. Sem problemas com instalação do driver.",positive_feedback,low,false
+8d26e643cc76e2d71fb6253b1ada8f5f,5,,"poderiam descrever as medidas da bolsa. o mais foi ótimo comprar na loja,",other,low,false
