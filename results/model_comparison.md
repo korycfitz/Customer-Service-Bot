@@ -11,9 +11,9 @@ All models run locally through Ollama, so API cost is $0.
 | category_macro_f1 | 0.44 | 0.43 |
 | severity_accuracy | 70% | 95% |
 | needs_response_accuracy | 95% | 100% |
-| mean_latency_s | 1.30s | 2.40s |
-| p95_latency_s | 1.14s | 3.18s |
-| tokens_per_s | 36.8 | 21.3 |
+| mean_latency_s | 1.94s | 4.80s |
+| p95_latency_s | 2.41s | 5.90s |
+| tokens_per_s | 24.6 | 10.7 |
 | size_gb | 1.24 GB | 3.12 GB |
 | cost_usd | $0.00 | $0.00 |
 
